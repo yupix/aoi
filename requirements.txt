@@ -1,0 +1,5 @@
+websocket_client
+mecab-python
+markovify
+python-dotenv
+mecab
